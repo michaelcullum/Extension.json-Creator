@@ -3,10 +3,9 @@
 *
 * Meta-data file Creator
 *
-* @author Michael Cullum (Unknown Bliss of http://michaelcullum.com)
-*
 * @package language
-* @copyright (c) 2012 Michael Cullum
+* @copyright (c) 2012 phpBB Group
+* @author Michael Cullum (Unknown Bliss of http://michaelcullum.com)
 * @license http://opensource.org/licenses/gpl-2.0.php GNU Public License
 *
 */
